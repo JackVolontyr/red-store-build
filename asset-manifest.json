@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/red-store-build/static/css/main.2dd63d0e.chunk.css",
-    "main.js": "/red-store-build/static/js/main.48dd049c.chunk.js",
-    "main.js.map": "/red-store-build/static/js/main.48dd049c.chunk.js.map",
+    "main.js": "/red-store-build/static/js/main.79a74316.chunk.js",
+    "main.js.map": "/red-store-build/static/js/main.79a74316.chunk.js.map",
     "runtime-main.js": "/red-store-build/static/js/runtime-main.0a0100ea.js",
     "runtime-main.js.map": "/red-store-build/static/js/runtime-main.0a0100ea.js.map",
     "static/js/2.5cb2b1d1.chunk.js": "/red-store-build/static/js/2.5cb2b1d1.chunk.js",
     "static/js/2.5cb2b1d1.chunk.js.map": "/red-store-build/static/js/2.5cb2b1d1.chunk.js.map",
     "index.html": "/red-store-build/index.html",
-    "precache-manifest.b5c758fa34a2fa978d0b5a37bec8e8f4.js": "/red-store-build/precache-manifest.b5c758fa34a2fa978d0b5a37bec8e8f4.js",
+    "precache-manifest.801f6bfafd96fa74e260f6f8e165dc5c.js": "/red-store-build/precache-manifest.801f6bfafd96fa74e260f6f8e165dc5c.js",
     "service-worker.js": "/red-store-build/service-worker.js",
     "static/css/main.2dd63d0e.chunk.css.map": "/red-store-build/static/css/main.2dd63d0e.chunk.css.map",
     "static/js/2.5cb2b1d1.chunk.js.LICENSE.txt": "/red-store-build/static/js/2.5cb2b1d1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0a0100ea.js",
     "static/js/2.5cb2b1d1.chunk.js",
     "static/css/main.2dd63d0e.chunk.css",
-    "static/js/main.48dd049c.chunk.js"
+    "static/js/main.79a74316.chunk.js"
   ]
 }
